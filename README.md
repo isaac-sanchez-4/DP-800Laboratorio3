@@ -4,7 +4,7 @@ Repositorio con las consultas SQL del laboratorio y el documento pdf.
 
 ## Documento ODF / PDF
 
-- [DP-800 Laboratorio 2 ISAAC Sanchez.pdf](./DP-800%20Laboratorio%202%20ISAAC%20Sanchez.pdf)
+- [DP-800 Laboratorio 2 ISAAC Sanchez.pdf](https://github.com/isaac-sanchez-4/DP-800Laboratorio3/blob/main/DP-800%20Laboratorio%203%20ISAAC%20Sanchez.pdf)
 
 ## Consultas SQL
 en orden de aparicion en la guia del laboratorio.
